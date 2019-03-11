@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tabA"
+        android:icon="@android:drawable/button_onoff_indicator_off"
+        android:title="A"
+        android:tooltipText='Tab "A"' />
+    <item
+        android:id="@+id/tabB"
+        android:icon="@android:drawable/button_onoff_indicator_off"
+        android:title="B"
+        android:tooltipText='Tab "B"' />
+    <item
+        android:id="@+id/tabC"
+        android:icon="@android:drawable/button_onoff_indicator_off"
+        android:title="C"
+        android:tooltipText='Tab "C"' />
+</menu>
